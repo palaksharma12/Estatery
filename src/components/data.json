@@ -1,0 +1,126 @@
+{
+    "Property":[
+        {
+            "imageSrc":"https://www.architectureartdesigns.com/wp-content/uploads/2014/06/2220-630x419.jpg",
+            "cost": "$2500",
+            "title": "Palm Harbor",
+            "address": "4327 Wood Street, Covington, Louisiana",
+            "beds": "5",
+            "type": "Villa",
+            "bathrooms": "3",
+            "area": "15*17 m^2"          
+        },{
+            "imageSrc":"https://jumanji.livspace-cdn.com/magazine/wp-content/uploads/2018/10/16191124/bright-and-beautiful-living-room-750x500.jpg",
+            "cost": "$1900",
+            "title": "City Dwellers",
+            "address": "1191 167th Hwy N, Bald Knob, Arkansas(AR)",
+            "type": "Flat",
+            "beds": "3",
+            "bathrooms": "2",
+            "area": "5*7 m^2"          
+        },
+        {
+            "imageSrc":"https://i.pinimg.com/550x/fc/07/40/fc0740d7c26d93974e117cb88a81bc36.jpg",
+            "cost": "$1845",
+            "title": "Ivy Cottage",
+            "address": "140 Leisureland Dr Ruffin, North Carolina(NC)",
+            "type": "House",
+            "beds": "5",
+            "bathrooms": "4",
+            "area": "10*7 m^2"          
+        },
+        {
+            "imageSrc":"https://i.pinimg.com/originals/6d/85/da/6d85daa8f81832a6671f4933f5a44545.jpg",
+            "cost": "$2115",
+            "title": "Grand Rosso",
+            "address": "135 Holly St Waterbury, Connecticut(CT)",
+            "type": "Flat",
+            "beds": "2",
+            "bathrooms": "1",
+            "area": "7*7 m^2"          
+        },
+        {
+            "imageSrc":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjB9rNzthvlXPMTy0EM7Ggd_TyJ2QS0zWzGg&usqp=CAU",
+            "cost": "$1935",
+            "title": "Meadow View",
+            "address": "338 Bald Eagle Way Belcamp, Maryland(MD)",
+            "type": "House",
+            "beds": "3",
+            "bathrooms": "2",
+            "area": "5*17 m^2"          
+        },
+        {
+            "imageSrc":"https://i.pinimg.com/736x/0d/12/c4/0d12c4c67b54df7fd629f03b70120bb1--villa-design-house-design.jpg",
+            "cost": "$2665",
+            "title": "Calypso Villa",
+            "address": "16762 Farm School Rd Davis, Illinois(IL)",
+            "type": "Villa",
+            "beds": "7",
+            "bathrooms": "5",
+            "area": "25*17 m^2"          
+        },
+        
+        {
+            "imageSrc":"https://engineeringdiscoveries.com/wp-content/uploads/2018/12/0c89be0c8c64800e0fa37930b252b983-2-scaled.jpg",
+            "cost": "$1495",
+            "title": "Mill House",
+            "address": "346 Autumn Ln Madison, Alabama(AL)",
+            "type": "House",
+            "beds": "4",
+            "bathrooms": "2",
+            "area": "12*7 m^2"          
+        },
+        {
+            "imageSrc":"https://luxuryproperties.in/wp-content/uploads/2019/07/Prestige-Golfshire-Villa-1.jpg",
+            "cost": "$2605",
+            "type": "Villa",
+            "title": "Rustic Star",
+            "address": "2 Sycamore Dr East Hampton, New York(NY)",
+            "beds": "8",
+            "bathrooms": "6",
+            "area": "15*27 m^2"          
+        },
+        {
+            "imageSrc":"https://5.imimg.com/data5/PF/CA/MY-13018244/semi-furnished-2-bhk-luxurious-flat-for-sale-in-nanpura-area-500x500.jpg",
+            "cost": "$1390",
+            "title": "The Retreat",
+            "address": "3088 Larkspur Cir SW Snellville, Georgia(GA)",
+            "type": "Flat",
+            "beds": "4",
+            "bathrooms": "3",
+            "area": "5*9 m^2"          
+        },
+        
+        {
+            "imageSrc":"https://i0.wp.com/boutiquetravelblog.com/wp-content/uploads/2016/02/inailia.jpg",
+            "cost": "$2605",
+            "title": "Robins Hedge",
+            "address": "34 N Parkwood Ave Pasadena, California(CA)",
+            "type": "Villa",
+            "beds": "6",
+            "bathrooms": "4",
+            "area": "25*17 m^2"          
+        },
+        {
+            "imageSrc":"https://qph.cf2.quoracdn.net/main-qimg-dadd358b9e2d553a903d580bcf399a31.webp",
+            "cost": "$2150",
+            "title": "The Stables",
+            "address": "8109 Woodlake Dr Riverdale, Georgia(GA)",
+            "type": "House",
+            "beds": "3",
+            "bathrooms": "2",
+            "area": "15*7 m^2"          
+        },
+        
+        {
+            "imageSrc":"https://images.homify.com/c_fill,f_auto,q_0,w_740/v1511244210/p/photo/image/2327234/1.jpg",
+            "cost": "$1785",
+            "title": "Blue Sky",
+            "address": "61 Salt Creek Rd Munford, Alabama(AL)",
+            "type": "Flat",
+            "beds": "2",
+            "bathrooms": "2",
+            "area": "5*14 m^2"          
+        }
+    ]
+}
