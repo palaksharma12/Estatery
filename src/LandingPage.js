@@ -4,7 +4,7 @@ import { useState, useEffect } from "react";
 import AnimationRevealPage from "./helpers/AnimationRevealPage.js";
 import Footer from "./components/Footer";
 import ContactUsForm from "./components/ContactUs";
-import Blogs from "./components/BlogIndex"; 
+import Property from "./components/Property"; 
 import JsonData from "./components/data.json";
 
 
@@ -17,7 +17,7 @@ export default () => {
   return (
     <AnimationRevealPage>
       <div id="property">
-        <Blogs data ={landingPageData.Property} />
+        <Property data ={landingPageData.Property} />
       </div>
       <div id="contact">
         <ContactUsForm/>

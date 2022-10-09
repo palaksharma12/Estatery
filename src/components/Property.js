@@ -1,12 +1,12 @@
 import React, { useState,useEffect } from "react";
 import AnimationRevealPage from "../helpers/AnimationRevealPage.js";
-import { Container, ContentWithPaddingXl } from "../components/misc/Layouts";
+import { Container, ContentWithPaddingXl } from "./misc/Layouts";
 import tw from "twin.macro";
 import styled from "styled-components";
 import { css } from "styled-components/macro";
-import Header from "../components/Header.js";
-import { SectionHeading } from "../components/misc/Headings";
-import { PrimaryButton } from "../components/misc/Buttons";
+import Header from "./Header.js";
+import { SectionHeading } from "./misc/Headings";
+import { PrimaryButton } from "./misc/Buttons";
 import { ReactComponent as HeartIcon } from "../images/heart.svg";
 import { ReactComponent as BedIcon } from "../images/bed.svg";
 import { ReactComponent as BathIcon } from "../images/bath.svg";
