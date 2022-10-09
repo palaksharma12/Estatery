@@ -6506,7 +6506,7 @@
   "resolved" "https://registry.npmjs.org/node-releases/-/node-releases-2.0.6.tgz"
   "version" "2.0.6"
 
-"node@^16.14.2":
+"node@^16.14.0":
   "integrity" "sha512-TbB0VecN4mxJ2H8bmLGyfKtIqywK8YSvfmYgLSsTffxp9l7iw/VAZlu+VjqMtVq1kp1I9icp+FCcunJN19/oVQ=="
   "resolved" "https://registry.npmjs.org/node/-/node-16.14.2.tgz"
   "version" "16.14.2"
